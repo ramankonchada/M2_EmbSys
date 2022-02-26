@@ -7,6 +7,17 @@ Headlights of vehicles pose a great danger during night driving. The drivers of 
 - Maintenance cost is low.
 
 # High Level Requirements
--
+- Windows(Operating System).
+- SimulIde
+- Design
+- Implementation.
+# Low level Requirements
+- Processing
+-Technical details
+- Functionalities
+- Calculations
+- Performance
+
+
 
 
