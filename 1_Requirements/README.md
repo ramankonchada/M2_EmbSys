@@ -64,6 +64,7 @@ A buzzer or beeper is an audio signaling device, which may be mechanical, electr
 - The water controller work by using sensors and these sensors send information to control panel to trigger an alarm(buzzer).
 
 ## SWOT Analysis
+![Swot analysis](https://user-images.githubusercontent.com/86915349/157223530-e9fa8957-198f-4320-80d6-0234a0956ce3.png)
 
 
 
