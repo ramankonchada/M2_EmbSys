@@ -14,15 +14,61 @@
 
 ## Low Level Requirements
 - Microcontroller
-- Resistors
 - Sensors
-- BJT
+- Transistor
 - VCC
-- Push button
+- Switch
 - Display
 - Buzzer
 
 ## Component Description
+### Microcontroller
+![microcontroller](https://user-images.githubusercontent.com/86915349/157207661-41ed95e5-e3e5-43a4-b24a-6648ae1c12f7.jpg)
+
+Microcontrollers generally contain 3 timers/counters. While two 8-bit timers can also be used as counters, the third one is a 16-bit counter. These are used to generate precision output signals, count external events or measure parameters of input digital signal.
+### Sensors
+![sensor](https://user-images.githubusercontent.com/86915349/157209430-c7848704-ca0b-4f37-93b2-1c67593a6a40.jpg)
+
+A sensor is a device that detects and responds to some type of input from the physical environment. The specific input could be light, heat, motion, moisture, pressure, or any one of a great number of other environmental phenomena.
+### Transistor
+![Transistor](https://user-images.githubusercontent.com/86915349/157209893-26e07d86-51e0-4555-a181-f64a27c57b94.jpg)
+
+Transistor that uses both electrons and electron holes as charge carriers. In contrast, a unipolar transistor, such as a field-effect transistor, uses only one kind of charge carrier.
+### VCC(voltage common collector)
+VCC is the power input of a device. It may be positive or negative with respect to GND. When the only positive power supply is used then VSS (Voltage Source Supply) means ground or zero.
+### Switch
+![Switch](https://user-images.githubusercontent.com/86915349/157210601-b676124b-affe-4d2e-b5a5-5c383388adf0.jpg)
+
+A switch is a piece of a physical circuitry component that governs the signal flow.
+### Display
+![Display](https://user-images.githubusercontent.com/86915349/157211319-187a85c1-dcdd-47c2-a42c-0ba0743fb014.jpg)
+
+Something in a prominent place in order that it may readily be seen.
+### Buzzer
+![Buzzer](https://user-images.githubusercontent.com/86915349/157211664-fb266443-dede-4777-882b-c4041ccafc0f.jpg)
+
+A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input 
+
+## 5W's & 1H
+### Who
+- Water controller 
+### What
+- A water controller is a system that realys information back to a control panel to indicate water is of ful tank or empty.
+### Where
+- Houses,hotels,apartments,factories etc
+### When
+- The purpose of the project is to manage the water levels in a water tank.
+### Why
+- The water controller mechanism is to detect the overhead of the water tank and the empty tank.
+### How
+- The water controller work by using sensors and these sensors send information to control panel to trigger an alarm(buzzer).
+
+## SWOT Analysis
+
+
+
+
+
 
 
 
