@@ -87,6 +87,30 @@ A buzzer or beeper is an audio signaling device, which may be mechanical, electr
 
 ## Test plan
 
+Test ID     |  Description     |  Expected Output    |  Actual Output       |  Execution Type
+------------|------------------|---------------------|----------------------|-------------------
+T_01        | Water level is 4 | Display 4 and buzzer| Display 4 and buzzer | Technical
+T_02        | Water level is 3 | Display 0 and buzzer| Display 0 and buzzer | Technical
+T_03        | Water level is 2 | Display 0 and buzzer| Display 0 and buzzer | Technical
+T_04        | Water level is 1 | Display 0 and buzzer| Display 0 and buzzer | Technical
+T_05        | Water level is 0 | Display 0 and buzzer| Display 0 and buzzer | Technical
+
+
+Test plan documentation is created.
+
+## Output
+
+- When the water tank is empty i.e., 0,1,2,3 levels
+![Output 1 (M2)](https://user-images.githubusercontent.com/86915349/157304206-0638b877-ac32-429c-aa1f-39ef7e5f2f11.png)
+- When the water tank is filled i.e., 4th level so its shows 4 and buzzer.
+![Output 2(M2)](https://user-images.githubusercontent.com/86915349/157304485-6c9b04a2-f068-46e4-bcd6-187942829503.png)
+
+ The output is captured for every possible level of requirements in test case and verified successfully
+
+
+
+
+
 
 
 
