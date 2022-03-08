@@ -5,3 +5,6 @@ T_02        | Water level is 3 | Display 0 and buzzer| Display 0 and buzzer | Te
 T_03        | Water level is 2 | Display 0 and buzzer| Display 0 and buzzer | Technical
 T_04        | Water level is 1 | Display 0 and buzzer| Display 0 and buzzer | Technical
 T_05        | Water level is 0 | Display 0 and buzzer| Display 0 and buzzer | Technical
+
+
+Test plan documentation is created and the output is captured for every possible level of requirements in test case and verified successfully
